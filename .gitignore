@@ -1,0 +1,6 @@
+.env
+.gititnore
+models/__pycache__
+pipelines/__pycache__
+silver/telematria_limpia.parquet
+utils/__pycache__
