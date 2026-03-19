@@ -29,12 +29,19 @@ El proyecto contiene scripts básicos que permiten:
 ## Estructura del proyecto
 
 │
+
 ├── models/
+
 ├── pipelines/
+
 ├── tests/
+
 ├── utils/
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
 
